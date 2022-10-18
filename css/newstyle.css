@@ -10,9 +10,7 @@ html {
   font-size: 16px;
 }
 
-/*header ul {
-  display: none;
-}*/
+
 
 img{
   width: 100%;
@@ -236,10 +234,8 @@ nav ul {
 }
 
 
-/*.ul-kontaktinformasjon {
- 
-}*/
+
 
 .ul-kontaktinformasjon  li:hover{
-  color: aqua;
+  color: #fdf1bc;
 }
