@@ -24,6 +24,7 @@ header {
   font-size: 1.5rem;
   position: sticky;
   top:0;
+  width: 100%;
   
 }
 
@@ -73,6 +74,7 @@ nav ul {
   border-radius: 50%;
   margin-left: 1rem;
   margin-right: 1rem;
+ 
   
   
 }
@@ -233,9 +235,7 @@ nav ul {
 
 }
 
-
-
-
 .ul-kontaktinformasjon  li:hover{
   color: #fdf1bc;
 }
+
